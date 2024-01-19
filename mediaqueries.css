@@ -45,6 +45,14 @@
   .about-containers {
     margin-top: 0;
   }
+
+  .section__text {
+    margin: auto;
+    align-self: center;
+    text-align: center;
+    width: 500px;
+    height: 600p;
+  }
 }
 
 @media screen and (max-width: 600px) {
