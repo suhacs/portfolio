@@ -7,7 +7,7 @@ function toggleMenu() {
 
 var typeText = document.querySelector(".typeText");
 var textToBeTyped = "Suha Park.";
-var textToBeTypedArr = ["Suha Park.", "Psychology lover.", "Yoggie."];
+var textToBeTypedArr = ["Suha Park.", "Traveler.", "Yoggie."];
 var index = 0,
   isAdding = true,
   textToBeTypedIndex = 0;
